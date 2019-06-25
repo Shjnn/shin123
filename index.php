@@ -32,9 +32,9 @@ img {margin-bottom: -7px}
   <i onclick="open()" class="fa fa-bars xlarge button theme"></i> 
   <div class="center">
   <h4>BEAUTIFUL RESPONSIVE WEB SITES</h4>
-  <h1 class="w3-xxxlarge w3-animate-bottom">BUILT WITH ME.CSS</h1>
+  <h1 class="w3-xxxlarge w3-animate-bottom"></h1>
     <div class="w3-padding-32">
-      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">Play.CSS</button>
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">
     </div>
   </div>
 </header>
