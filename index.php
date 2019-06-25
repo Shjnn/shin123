@@ -42,21 +42,21 @@ img {margin-bottom: -7px}
 <div class="w3-row-padding w3-center w3-margin-top">
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <i img src="image/4.jpg" style="font-size:120px"></i>
+  <img src="image/4.jpg" style="font-size:120px" />
   <p>Robot</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <i image src="image/12.jpg" style="font-size:120px"></i>
+  <image src="image/12.jpg" style="font-size:120px" />
   <p>Dainous</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <i img src="image/8.jpg" style="font-size:120px"></i>
+  <img src="image/8.jpg" style="font-size:120px" />
   <p>Model</p>
   </div>
 </div>
