@@ -43,7 +43,7 @@ img {margin-bottom: -7px}
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
   <h3>Toys</h3><br>
-  <i class="1.jpg" 
+  <i class="1.jpg" style="font-size:120px"></i>
   <p>Toys</p>
   <p>Fits any screen sizes</p>
   <p>Huge size</p>
