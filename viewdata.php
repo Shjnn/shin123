@@ -75,7 +75,7 @@ img {margin-bottom: -7px}
       ));
     }  
 
-    $sql = "SELECT * FROM duyanh ORDER BY storeid";
+    $sql = "SELECT * FROM duyanh12345 ORDER BY storeid";
     $stmt = $pdo->prepare($sql);
     $stmt->setFetchMode(PDO::FETCH_ASSOC);
     $stmt->execute();
@@ -87,7 +87,7 @@ img {margin-bottom: -7px}
       <thead>
         <tr>
           <th>Store ID</th>
-          <th>Store name</th>
+          <th>Storename</th>
           <th>Revenue</th>
           <th>Last Time Check</th>
         </tr>
