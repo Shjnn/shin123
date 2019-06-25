@@ -42,7 +42,7 @@ img {margin-bottom: -7px}
 <div class="w3-row-padding w3-center w3-margin-top">
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <i img src="image/4,jpg" style="font-size:120px"></i>
+  <i img src="image/4.jpg" style="font-size:120px"></i>
   <p>Robot</p>
   </div>
 </div>
