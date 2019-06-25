@@ -28,13 +28,13 @@ img {margin-bottom: -7px}
 
 <!-- !PAGE CONTENT! -->
 <!-- Header -->
-<header class="container theme padding" id="myHeader">
-  <i onclick="open()" class="fa fa-bars xlarge button theme"></i> 
-  <div class="center">
+<header class="w3-container w3-theme w3-padding" id="myHeader">
+  <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> 
+  <div class="w3-center">
   <h4>BEAUTIFUL RESPONSIVE WEB SITES</h4>
-  <h1 class="w3-xxxlarge w3-animate-bottom"></h1>
+  <h1 class="w3-xxxlarge w3-animate-bottom">BUILT WITH ME.CSS</h1>
     <div class="w3-padding-32">
-      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">LEARN.CSS</button>
     </div>
   </div>
 </header>
@@ -107,6 +107,8 @@ img {margin-bottom: -7px}
   <div class="w3-col w3-container m2 w3-yellow"><p>Yellow</p></div>
   <div class="w3-col w3-container m2 w3-orange"><p>Orange</p></div>
 </div>
+
+
 
 <!-- End Page Content -->
 </div>
