@@ -42,30 +42,22 @@ img {margin-bottom: -7px}
 <div class="w3-row-padding w3-center w3-margin-top">
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Toys</h3><br>
-  <i class="1.jpg" style="font-size:120px"></i>
-  <p>Toys</p>
-  <p>Fits any screen sizes</p>
-  <p>Huge size</p>
+  <i img src="image/4,jpg" style="font-size:120px"></i>
+  <p>Robot</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Mobile toys</h3><br>
-  <i class="fa fa-css3 w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Helicopter</p>
-  <p>Cars</p>
-  <p>Boats</p>
+  <i image src="image/12.jpg" style="font-size:120px"></i>
+  <p>Dainous</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Design</h3><br>
-  <i class="fa fa-diamond w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Cusomter design</p>
-  <p>Basic</p>
+  <i img src="image/8.jpg" style="font-size:120px"></i>
+  <p>Model</p>
   </div>
 </div>
 </div>
