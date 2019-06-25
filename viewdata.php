@@ -75,7 +75,7 @@ img {margin-bottom: -7px}
       ));
     }  
 
-    $sql = "SELECT * FROM thanhcloud ORDER BY storeid";
+    $sql = "SELECT * FROM duyanh12345 ORDER BY storeid";
     $stmt = $pdo->prepare($sql);
     $stmt->setFetchMode(PDO::FETCH_ASSOC);
     $stmt->execute();
@@ -87,7 +87,7 @@ img {margin-bottom: -7px}
       <thead>
         <tr>
           <th>Store ID</th>
-          <th>Accountant</th>
+          <th>Store name</th>
           <th>Revenue</th>
           <th>Last Time Check</th>
         </tr>
@@ -100,7 +100,7 @@ img {margin-bottom: -7px}
 
         <tr>
           <td scope="row"><?php echo $row['storeid'] ?></td>
-          <td><?php echo $row['accountant'] ?></td>
+          <td><?php echo $row['storename'] ?></td>
           <td><?php echo $row['revenue'] ?></td>
           <td><?php echo $row['timecheck'] ?></td>
         </tr>

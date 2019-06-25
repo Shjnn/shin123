@@ -92,8 +92,8 @@ img {margin-bottom: -7px}
         echo "ERROR: Could not connect Database";
       }
 
-      $sql = "INSERT INTO thanhcloud(storeid, accountant, revenue)"
-      . " VALUES('$_POST[storeid]','$_POST[accountant]','$_POST[revenue]')";
+      $sql = "INSERT INTO duyanh12345(storeid, storename, revenue)"
+      . " VALUES('$_POST[storeid]','$_POST[storename]','$_POST[revenue]')";
       $stmt = $pdo->prepare($sql);
 
         if (is_null($_POST[storeid])) {
