@@ -31,10 +31,10 @@ img {margin-bottom: -7px}
 <header class="w3-container w3-theme w3-padding" id="myHeader">
   <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> 
   <div class="w3-center">
-  <h4>BEAUTIFUL RESPONSIVE WEB SITES</h4>
-  <h1 class="w3-xxxlarge w3-animate-bottom">BUILT WITH ME</h1>
+  <h4>Welcome to Toys Store</h4>
+  <h1 class="w3-xxxlarge w3-animate-bottom">A world of toys</h1>
     <div class="w3-padding-32">
-      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">LEARN</button>
+      <button class="w3-btn w3-xlarge w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">Buy</button>
     </div>
   </div>
 </header>
@@ -61,23 +61,21 @@ img {margin-bottom: -7px}
 <div class="w3-row-padding w3-center w3-margin-top">
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Responsive</h3><br>
+  <h3>Toys</h3><br>
   <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
+  <p>Toys</p>
   <p>Fits any screen sizes</p>
-  <p>PC Tablet and Mobile</p>
+  <p>Huge size</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Standard CSS</h3><br>
+  <h3>Mobile toys</h3><br>
   <i class="fa fa-css3 w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Standard CSS only</p>
-  <p>Easy to learn</p>
-  <p>No need for jQuery</p>
-  <p>No JavaScript library</p>
+  <p>Helicopter</p>
+  <p>Cars</p>
+  <p>Boats</p>
   </div>
 </div>
 
@@ -85,29 +83,11 @@ img {margin-bottom: -7px}
   <div class="w3-card w3-container" style="min-height:460px">
   <h3>Design</h3><br>
   <i class="fa fa-diamond w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Paper like design</p>
-  <p>Bold colors and shadows</p>
-  <p>Equal across platforms</p>
-  <p>Equal across devices</p>
+  <p>Cusomter design</p>
+  <p>Basic</p>
   </div>
 </div>
 </div>
-
-<div class="w3-container">
-<hr>
-<div class="w3-center">
-  <h2>Color Classes</h2>
-</div>
-
-<div class="w3-row">
-  <div class="w3-col w3-container m2 w3-red"><p>Red</p></div>
-  <div class="w3-col w3-container m2 w3-blue"><p>Blue</p></div>
-  <div class="w3-col w3-container m2 w3-blue-grey"><p>Blue Grey</p></div>
-  <div class="w3-col w3-container m2 w3-teal"><p>Teal</p></div>
-  <div class="w3-col w3-container m2 w3-yellow"><p>Yellow</p></div>
-  <div class="w3-col w3-container m2 w3-orange"><p>Orange</p></div>
-</div>
-
 
 
 <!-- End Page Content -->
