@@ -42,21 +42,21 @@ img {margin-bottom: -7px}
 <div class="w3-row-padding w3-center w3-margin-top">
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <img src="image/4.jpg" style="font-size:120px" />
+  <img src="image/4.jpg" style="font-size:500px" />
   <p>Robot</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <image src="image/12.jpg" style="font-size:120px" />
+  <image src="image/12.jpg" style="font-size:500px" />
   <p>Dainous</p>
   </div>
 </div>
 
 <div class="w3-third">
   <div class="w3-card w3-container" style="min-height:460px">
-  <img src="image/8.jpg" style="font-size:120px" />
+  <img src="image/8.jpg" style="font-size:500px" />
   <p>Model</p>
   </div>
 </div>
